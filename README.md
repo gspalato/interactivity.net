@@ -1,2 +1,5 @@
 # interactivity.net
-A DSharpPlus.Interactivity port for Discord.NET.
+
+An interactivity library for Discord.NET.
+Still in it's early stages of design, therefore some things may not have been thought through.
+Contribution is appreciated.
